@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/drum-machine/static/css/main.6e25fe78.chunk.css",
+    "main.js": "/drum-machine/static/js/main.8aef76c8.chunk.js",
+    "main.js.map": "/drum-machine/static/js/main.8aef76c8.chunk.js.map",
+    "runtime~main.js": "/drum-machine/static/js/runtime~main.27309cc5.js",
+    "runtime~main.js.map": "/drum-machine/static/js/runtime~main.27309cc5.js.map",
+    "static/js/2.76242ae3.chunk.js": "/drum-machine/static/js/2.76242ae3.chunk.js",
+    "static/js/2.76242ae3.chunk.js.map": "/drum-machine/static/js/2.76242ae3.chunk.js.map",
+    "index.html": "/drum-machine/index.html",
+    "precache-manifest.e222c50a57c132949be3cf0b706a8815.js": "/drum-machine/precache-manifest.e222c50a57c132949be3cf0b706a8815.js",
+    "service-worker.js": "/drum-machine/service-worker.js",
+    "static/css/main.6e25fe78.chunk.css.map": "/drum-machine/static/css/main.6e25fe78.chunk.css.map"
+  }
+}
