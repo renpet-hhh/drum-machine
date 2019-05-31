@@ -1,0 +1,23 @@
+.switch-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0.5rem;
+    background-color: rgb(53, 48, 48);
+}
+.switch-container label {
+    font-size: 2rem;
+}
+
+.switch {
+    border: none;
+    border-radius: 2rem;
+    background-color: rgb(129, 129, 114);
+    width: 2rem;
+    height: 2rem;
+    margin-left: 1rem;
+    outline: 0;
+}
+.switch.active {
+    background-color: rgb(206, 16, 16);
+}

@@ -1,0 +1,19 @@
+#drum-machine {
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(39, 36, 44);
+    padding: 4rem;
+}
+.pads-container {
+    display: grid;
+    grid-template-rows: "1fr 1fr 1fr";
+    grid-template-columns: "1fr 1fr 1fr";
+    grid-template-areas: ". . ." ". . ." ". . .";
+}
+.right-container {
+    padding-left: 6rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
